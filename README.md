@@ -1,16 +1,75 @@
-## Hi there 👋
+# 🎮 [Твоё Имя]  
 
-<!--
-**HappySuron/happysuron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> "Игры — это способ рассказывать истории"  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌍 Языки / Languages
+- 🇷🇺 [Русский](#-русский)  
+- 🇬🇧 [English](#-english)  
+
+---
+
+## 🇷🇺 Русский
+
+## 🎨 Портфолио
+
+| Проект | Жанр | Особенности |
+|--------|------|-------------|
+| **SUAI_PK** | RPG (изометрия) | Диалоги, база для ролевых игр |
+| **Gloomhaven** | AAA-сцена | Reallusion персонажи, свет, звук, LipSync, кат-сцены |
+| **FCG** | Card Game | Прототип "Гвинта" с уникальными механиками |
+| **suaiDetective** *(заморожен)* | 3rd Person | Черновой прототип, будет переработан |
+| **CakeDemoTempNew** | Hackathon Project | Командная работа, интересный арт |
+| **KG** | Graphics Engine | Рендеринг фигур, вращение, тени |
+| **EVM Emulator** | Low-level | Эмуляция коммутации и шины |
+| **MageDefence** *(WIP)* | Roguelike | Диплом, вдохновлено *Vampire Survivors* |
+
+---
+
+## 📸 Галерея  
+
+### 🏰 Gloomhaven
+<img src="assets/gloomhaven_scene.png" width="400"> <img src="assets/gloomhaven_gameplay.gif" width="400">
+
+### 🃏 FCG
+<img src="assets/fcg_cards.png" width="400"> <img src="assets/fcg_board.png" width="400">
+
+---
+
+## 📫 Контакты
+- ✉️ [Почта / Telegram](#)  
+- 💼 [LinkedIn](#)  
+
+---
+
+## 🇬🇧 English
+
+## 🎨 Portfolio
+
+| Project | Genre | Highlights |
+|---------|-------|------------|
+| **SUAI_PK** | RPG (isometric) | Dialogues, RPG mechanics foundation |
+| **Gloomhaven** | AAA-like Scene | Reallusion characters, lighting, sound, LipSync, cutscenes |
+| **FCG** | Card Game | Prototype of a Gwent-inspired card game |
+| **suaiDetective** *(frozen)* | 3rd Person | Early prototype, will be reworked |
+| **CakeDemoTempNew** | Hackathon Project | Teamwork, unique art |
+| **KG** | Graphics Engine | Rendering, rotation, lighting, shadows |
+| **EVM Emulator** | Low-level | Bus & communication emulation |
+| **MageDefence** *(WIP)* | Roguelike | Bachelor thesis, inspired by *Vampire Survivors* |
+
+---
+
+## 📸 Gallery  
+
+### 🏰 Gloomhaven
+<img src="assets/gloomhaven_scene.png" width="400"> <img src="assets/gloomhaven_gameplay.gif" width="400">
+
+### 🃏 FCG
+<img src="assets/fcg_cards.png" width="400"> <img src="assets/fcg_board.png" width="400">
+
+---
+
+## 📫 Contacts
+- ✉️ [Email / Telegram](#)  
+- 💼 [LinkedIn](#)  
