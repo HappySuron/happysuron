@@ -71,8 +71,8 @@
 ---
 
 ## 📫 Контакты
-- ✉️ [Почта](mailto: zaburdinslv@mail.)
-- ⌯⌲ [Telegram](https://t.me/@ryan_gosling_slava)
+- ✉️ Почта: zaburdinslv@mail.
+- ⌯⌲ Telegram @ryan_gosling_slava
 
 ---
 
@@ -134,5 +134,5 @@
 ---
 
 ## 📫 Contacts
-- ✉️ [Email](mailto:zaburdinslv@mail.)  
-- 💬 [Telegram](https://t.me/@ryan_gosling_slava)  
+- ✉️ Email: zaburdinslv@mail.
+- ⌯⌲ Telegram @ryan_gosling_slava
