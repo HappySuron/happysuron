@@ -37,11 +37,36 @@
 
 ## 📸 Галерея  
 
-### 🏰 Gloomhaven
+### 🕵🏻‍♂️ Gloomhaven
 <img src="assets/Gloomhaven_1.png" width="400"> <img src="assets/Gloomhaven_2.png" width="400">
+<img src="assets/Gloomhaven_3.png" width="400"> <img src="assets/Gloomhaven_4.png" width="400">
+<img src="assets/Gloomhaven_5.png" width="400"> <img src="assets/Gloomhaven_6.png" width="400">
+<img src="assets/Gloomhaven_7.png" width="400"> <img src="assets/Gloomhaven_8.png" width="400">
 
 ### 🃏 FCG
-<img src="assets/fcg_cards.png" width="400"> <img src="assets/fcg_board.png" width="400">
+<img src="assets/FCG_1.png" width="400"> <img src="assets/FCG_2.png" width="400">
+<img src="assets/FCG_3.png" width="400"> <img src="assets/FCG_4.png" width="400">
+<img src="assets/FCG_5.png" width="400">
+
+
+### 🎞️ suaiDetective
+<img src="assets/suaiDetective_1.png" width="400"> <img src="assets/suaiDetective_2.png" width="400">
+<img src="assets/suaiDetective_3.png" width="400">
+
+
+### ✨ SUAI_PK
+<img src="assets/SUAI_PK_1.png" width="400"> <img src="assets/SUAI_PK_2.png" width="400">
+<img src="assets/SUAI_PK_3.png" width="400">
+
+
+### 🧙 MageDefence
+<img src="assets/MD_1.png" width="400"> <img src="assets/MD_2.png" width="400">
+<img src="assets/MD_3.png" width="400"> <img src="assets/MD_4.png" width="400">
+
+
+### ✨ CakeDemoTempNew
+<img src="assets/Cake_1.png" width="400"> <img src="assets/Cake_2.png" width="400">
+<img src="assets/Cake_3.png" width="400">
 
 ---
 
