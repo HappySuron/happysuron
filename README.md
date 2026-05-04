@@ -24,7 +24,7 @@
 | **suaiDetective** *(заморожен)* | 3rd Person | Черновой прототип игры от третьего лица: управление персонажем, камера, базовые механики. Проект заморожен, будет переработан к диплому. |
 | **CakeDemoTempNew** | Hackathon Project | Командная работа на хакатоне: быстрый прототип. Несмотря на сырость, проект отличается очень крутым визуалом. В разработке участвовали *@Hipydel* и другие|
 | **MageDefence** *(заморожен)* | Roguelike | Дипломный проект (бакалавриат), вдохновлён *Vampire Survivors*. Реализована основа геймплея: волны противников, визуальный стиль, разные заклинания.|
-| **Leritage** | Arcade / Typer |  |
+| **Leritage** | Arcade / Typer | Тайпер-игра с интегрированным распознаванием символов. |
 
 ### ⚙️ Техпроекты
 
@@ -47,7 +47,7 @@
 | **suaiDetective** *(frozen)* | 3rd Person | Early third-person prototype: character controls, camera, basic mechanics. Will be reworked as part of thesis project. |
 | **CakeDemoTempNew** | Hackathon Project | Hackathon team project: rapid prototyping. Rough gameplay, but striking visuals. |
 | **MageDefence** *(frozen)* | Roguelike | Bachelor thesis project inspired by *Vampire Survivors*. Implemented core gameplay: enemy waves, visual style, spells variety. |
-| **Leritage** | Arcade / Typer |  |
+| **Leritage** | Arcade / Typer / Hackathon Project| A typing game with integrated symbol recognition. |
 
 ### ⚙️ Tech Projects
 
@@ -86,6 +86,11 @@
 ### 🎂 CakeDemoTempNew
 <img src="assets/Cake_1.png" width="400"> <img src="assets/Cake_2.png" width="400">
 <img src="assets/Cake_3.png" width="400">
+
+### 🎂 Leritage
+<img src="assets/Leritage1.png" width="400"> <img src="assets/Leritage2.png" width="400">
+<img src="assets/Leritage3.png" width="400">
+
 
 ---
 
