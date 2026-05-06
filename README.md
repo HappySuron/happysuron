@@ -87,7 +87,7 @@
 <img src="assets/Cake_1.png" width="400"> <img src="assets/Cake_2.png" width="400">
 <img src="assets/Cake_3.png" width="400">
 
-### 🎂 Leritage
+### 📸 Leritage
 <img src="assets/Leritage1.png" width="400"> <img src="assets/Leritage2.png" width="400">
 <img src="assets/Leritage3.png" width="400">
 
